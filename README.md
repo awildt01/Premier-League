@@ -1,6 +1,6 @@
 # Premier-League
 
-![2023-02-04_22h34_17](https://user-images.githubusercontent.com/18030121/216790502-71649098-5f82-4372-b89b-5acb5c99870e.png)
+
 
 
 
