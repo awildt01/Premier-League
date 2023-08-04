@@ -24,6 +24,6 @@ Lösung:
 
 ● Es handelt sich um ein Problem mit Ziel-Variable. Es gibt die Option mit überwachtem Lernen an Modellen zu arbeiten.
 
-● Es werden zuerst zwei Modelle getestet. Logistik Regression und Random Forest.
+● Es werden zuerst zwei Modelle getestet. Logistik Regression und Random Forest,  DecisionTreeClassifier, SVC, AdaBoostClassifier.
 
 ● Das Projekt wird in der Programmiersprache Python entwickelt.
