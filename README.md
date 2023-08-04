@@ -22,7 +22,7 @@ Ziel:
  
 Lösung:
 
-● Es handelt sich um ein Problem mit Ziel-Variable. Es gibt die Option mit überwachtem Lernen an Modellen zu arbeiten.
+● Es handelt sich um ein klassifikationsproblem mit Ziel-Variable. Es gibt die Option mit überwachtem Lernen an Modellen zu arbeiten.
 
 ● Es wurden verschiedene Modelle getestet. Logistik Regression, Random Forest,  DecisionTreeClassifier, SVC und AdaBoostClassifier.
 
