@@ -26,7 +26,7 @@ Lösung:
 
 ● Es wurden verschiedene Modelle getestet. Logistik Regression, Random Forest,  DecisionTreeClassifier, SVC und AdaBoostClassifier.
 
-● Das Projekt wird in der Programmiersprache Python entwickelt.
+● Das Projekt wird in der Programmiersprache Python entwickelt.    
 
 
 
