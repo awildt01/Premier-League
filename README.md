@@ -29,4 +29,3 @@ Lösung:
 ● Das Projekt wird in der Programmiersprache Python entwickelt.    
    
 
-
