@@ -44,17 +44,13 @@ Lösung:
 
 
 
-
-
-
-
  [![author](https://img.shields.io/badge/author-wildt-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 
 # Alexandre Wildt Graziani 
 <sub>*Lead Data Scientist*</sub>
 
-Entwicklung eines Algorithmus zur Vorhersage der möglichen Endplatzierung im Meisterschaftsturnier basierend auf der Kaderzusammensetzung. Wir streben an, die Platzierungen der Teams von Rang 1 bis Rang 20 in der Premier League vorherzusagen. Dazu nutzen wir verschiedene Attribute der Spieler jedes Teams, wie zum Beispiel Körpergröße, Gewicht, Nationalität, Anzahl der Tore, Vorlagen und Torwartparaden. Zudem werden wir analysieren, welche Kadermerkmale den größten Einfluss auf die Platzierung in der Meisterschaft haben.
+In diesem Projekt wurde ein Algorithmus entwickelt, um die mögliche Endplatzierung der Teams in einem Meisterschaftsturnier basierend auf deren Kaderzusammensetzung vorherzusagen. Unser Ziel ist es, die Platzierungen der Teams von Rang 1 bis Rang 20 in der Premier League zu prognostizieren. Dafür nutzen wir verschiedene Spielerattribute, wie Körpergröße, Gewicht, Nationalität, Anzahl der Tore, Vorlagen und Torwartparaden. Darüber hinaus analysieren wir, welche Kadermerkmale den größten Einfluss auf die Platzierung in der Meisterschaft haben.
 
 **Links:**
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
