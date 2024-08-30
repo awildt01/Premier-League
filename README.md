@@ -5,7 +5,9 @@
 
  
 
-In diesem Blog möchte ich einen  Einblick auf mein Projekt verschaffen. In diesem Projekt werde ich mehrere überwachte Algorithmen testen, um die Rangliste von  Fußballmannschaften  aus der Premier League Anhang ihrer Kader vorhersagen. Ich werde den besten Kandidatenalgorithmus aus vorläufigen Ergebnissen auswählen und diesen Algorithmus weiter optimieren, um die Aufgabe zu lösen. Dabei werde ich die besten Features auswählen und die Hyperparameter  optimieren. 
+In diesem Blog möchte ich einen  Einblick auf mein Projekt verschaffen. In diesem Projekt werde ich mehrere überwachte Algorithmen testen, um die Rangliste von  Fußballmannschaften  aus der Premier League Anhang ihrer Kader vorhersagen. Ich werde den besten Kandidatenalgorithmus aus vorläufigen Ergebnissen auswählen und diesen Algorithmus weiter optimieren, um die Aufgabe zu lösen. Dabei werde ich die besten Features auswählen und die Hyperparameter  optimieren.
+
+Die Idee ist dass Mann nicht einzelner Spieler bewertete sondern eine Zentral Wert die repräsentiert eine Eigenschaften der gesamt Kaders. BZ Median von Gewicht , Alter und Grösser. Ich gehe davon aus, dass die Eigenschaften der gesamten Mannschaft wichtiger sind, um eine bessere Klassifikation zu erreichen, als die individuellen Merkmale einzelner Spieler.
 
 Die Datensets beinhalten Daten aus dem Jahr 2003 bis 2021. Aus diesen Datensets wurden zwei Dateien erzeugt. Eine Datei über die Mannschaften aus der League und eine andere über die Kader.
 
