@@ -74,22 +74,48 @@ Die Daten stammen von der Website [footystats.org](https://footystats.org/de/eng
 
 ### Projekt 
 
-Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
-Die folgenden schritt werden in der Analyse durch durchgeführt
+Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohdaten ein verwertbares Modell oder eine aussagekräftige Analyse zu entwickeln. In diesem Projekt wurden diese Phasen mehrfach wiederholt. Beim ersten Durchlauf konnten keine zufriedenstellenden Ergebnisse erzielt werden, da die gewählten Features nicht geeignet waren, um brauchbare Resultate zu liefern. Um das Problem zu beheben, wurde die Datenaufbereitung für das Modell erneut durchgeführt, wobei neue Features ausgewählt und angepasst wurden, die das Modell besser unterstützen könnten. In diesem Projekt wurden die folgenden Phasen durchlaufen.
 
-1. Data Laden 
+1. Problem Definition
 
-2. Datenüberblick: Ersten Blick auf die Daten, um deren Struktur und Größe zu verstehen. Anzeigen der ersten Zeilen, Spaltennamen und Datentypen.
+Zielsetzung: Klare Definition des Problems, das gelöst werden soll. Dies umfasst die Identifikation der Geschäftsanforderungen und das Festlegen der zu erreichenden Ziele.
+Erfolgskriterien: Festlegung von Kriterien, anhand derer der Erfolg des Projekts gemessen wird.
 
-3. Datenbereinigung: Identifizieren und behandeln von fehlende Werte, Dubletten oder Ausreißer.
+2. Datenbeschaffung
 
-4. Deskriptive Statistiken: Berechnung grundlegender statistischer Maße wie Durchschnitt, Median, Standardabweichung und Quartile, um ein besseres Verständnis der Verteilung der Daten zu erhalten.
-  
-5. Datenvisualisierung: Erstellung vom Diagramme, Grafiken und Plots, um die Verteilung und Beziehungen zwischen den Variablen zu visualisieren.
+Datenquellen identifizieren: Welche Daten sind erforderlich und woher können sie bezogen werden?
+Datenakquise: Extraktion der benötigten Daten aus den identifizierten Quellen.
+Datenzugang sichern: Sicherstellen, dass der Zugang zu den benötigten Datenquellen gegeben ist.
 
-6. Korrelationsanalyse: Untersuchung von Korrelationen zwischen verschiedenen Variablen, um festzustellen, ob starke Beziehungen vorhanden sind.
+3. Datenaufbereitung
 
-7. Hypothesenbildung: Auf der Grundlage von Beobachtungen und Analysen werden angenommen, wie verschiedene Faktoren miteinander in Beziehung stehen
+Datenbereinigung: Entfernen von Rauschen, Duplikaten und Inkonsistenzen, Umgang mit fehlenden Werten und Outliers.
+Datenintegration: Zusammenführen von Daten aus verschiedenen Quellen und Formaten.
+Feature Engineering: Erstellen neuer Merkmale (Features) aus den vorhandenen Daten, um die Leistung des Modells zu verbessern.
+Datenformatierung: Vorbereitung der Daten für die Modellierung (Skalierung, Normalisierung, One-Hot-Encoding).
+
+4. Explorative Datenanalyse (EDA)
+
+Datenvisualisierung: Verwendung von Diagrammen und Plots, um die Verteilungen, Zusammenhänge und Muster in den Daten zu verstehen.
+Statistische Analyse: Durchführung von Hypothesentests und Korrelationsanalysen, um tiefere Einblicke in die Daten zu gewinnen.
+
+5. Modellierung
+
+Modellauswahl: Auswahl geeigneter Algorithmen basierend auf dem Problemtyp (z.B. Klassifikation, Regression).
+Modelltraining: Anpassung des Modells an die Trainingsdaten.
+Hyperparameter-Tuning: Feinabstimmung der Modellparameter, um die Leistung zu optimieren.
+Cross-Validation: Überprüfung der Modellleistung durch Aufteilung der Daten in Trainings- und Validierungssets.
+
+6. Evaluierung
+
+Modellbewertung: Messung der Modellleistung anhand verschiedener Metriken wie Genauigkeit, Präzision, Recall, F1-Score etc.
+Modellvergleich: Vergleich der Leistung verschiedener Modelle und Auswahl des besten Modells.
+Überprüfung auf Überanpassung (Overfitting): Sicherstellen, dass das Modell gut generalisiert und nicht nur auf den Trainingsdaten gut abschneidet.
+
+7. Interpretation und Kommunikation
+
+Modellergebnisse interpretieren: Ableitung von Erkenntnissen und Geschäftsempfehlungen basierend auf den Modellvorhersagen.
+Ergebnisse kommunizieren: Präsentation der Ergebnisse an Stakeholder in verständlicher Form, oft unterstützt durch Visualisierungen und Berichte.
 
 
 
