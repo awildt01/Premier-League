@@ -67,6 +67,8 @@ Die Datensätze umfassen Informationen aus den Jahren 2003 bis 2021. Aus diesen 
 Die Daten stammen von der Website [footystats.org](https://footystats.org/de/england/premier-league) footystats.org. FootyStats ist eine Website für Fußballstatistiken und Analysen mit Datenabdeckung in über 1500 Fußballligen weltweit.
 
 - daten_league.csv - Zusammenfassende Informationen und Kennzahlen einer Datei über die Mannschaften der Liga, einschließlich Tabellenplatzierung, Vereinsname, Anzahl der absolvierten Spiele, Anzahl der Siege und erzielten Tore etc.
+
+  
 - daten_squad.csv -  Zusammenfassende Informationen und Kennzahlen einer Datei über die Kader, einschließlich Spielername, Alter, Gewicht Größer Nationalität, Anzahl von Spielen etc.
 
 
