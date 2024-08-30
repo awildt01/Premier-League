@@ -94,10 +94,6 @@ Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohda
 
 
 
-
-### Insight
-
-
 ### Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
