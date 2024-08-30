@@ -54,6 +54,8 @@ Lösung:
 
 In diesem Projekt wurde ein Algorithmus entwickelt, um die mögliche Endplatzierung der Teams in einem Meisterschaftsturnier basierend auf deren Kaderzusammensetzung vorherzusagen. Unser Ziel ist es, die Platzierungen der Teams von Rang 1 bis Rang 20 in der Premier League zu prognostizieren. Dafür nutzen wir verschiedene Spielerattribute, wie Körpergröße, Gewicht, Nationalität, Anzahl der Tore, Vorlagen und Torwartparaden. Darüber hinaus analysieren wir, welche Kadermerkmale den größten Einfluss auf die Platzierung in der Meisterschaft haben.
 
+Die Idee ist dass Mann nicht einzelner Spieler bewertete sondern eine Zentral Wert die repräsentiert eine Eigenschaften der gesamt Kaders. BZ Median von Gewicht , Alter und Grösser. Ich gehe davon aus, dass die Eigenschaften der gesamten Mannschaft wichtiger sind, um eine bessere Klassifikation zu erreichen, als die individuellen Merkmale einzelner Spieler.
+
 **Links:**
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 * [Medium](https://medium.com/@alexandrewildtgraziani/analyse-der-airbnb-berlin-b002125a56f9)
