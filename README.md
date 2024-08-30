@@ -18,7 +18,7 @@ Die Idee ist dass Mann nicht einzelner Spieler bewertete sondern eine Zentral We
 * [Medium](https://medium.com/@alexandrewildtgraziani/analyse-der-airbnb-berlin-b002125a56f9)
 * [Blog](https://sigmoidal.ai)
 
-### Beschaffung der Daten
+### Beschaffung der Daten:
 Die Datensätze umfassen Informationen aus den Jahren 2003 bis 2021. Aus diesen Daten wurden zwei separate Dateien erstellt: eine, die sich auf die Mannschaften in der Liga konzentriert, und eine weitere, die sich auf die Kaderzusammensetzungen bezieht. Die Daten stammen von der Website footystats.org, einer Plattform, die umfassende Fußballstatistiken und -analysen für über 1.500 Fußballligen weltweit bereitstellt.
 
 Die Daten stammen von der Website [footystats.org](https://footystats.org/de/england/premier-league) footystats.org. FootyStats ist eine Website für Fußballstatistiken und Analysen mit Datenabdeckung in über 1500 Fußballligen weltweit.
@@ -29,7 +29,9 @@ Die Daten stammen von der Website [footystats.org](https://footystats.org/de/eng
 - daten_squad.csv -  Zusammenfassende Informationen und Kennzahlen einer Datei über die Kader, einschließlich Spielername, Alter, Gewicht Größer Nationalität, Anzahl von Spielen etc.
 
 
-### Projekt 
+
+
+### Projekt:
 
 Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohdaten ein verwertbares Modell oder eine aussagekräftige Analyse zu entwickeln. In diesem Projekt wurden diese Phasen mehrfach wiederholt. Beim ersten Durchlauf konnten keine zufriedenstellenden Ergebnisse erzielt werden, da die gewählten Features nicht geeignet waren, um brauchbare Resultate zu liefern. Um das Problem zu beheben, wurde die Datenaufbereitung für das Modell erneut durchgeführt, wobei neue Features ausgewählt und angepasst wurden, die das Modell besser unterstützen könnten. In diesem Projekt wurden die folgenden Phasen durchlaufen.
 
@@ -73,6 +75,8 @@ Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohda
 
 - Modellergebnisse interpretieren: Ableitung von Erkenntnissen und Geschäftsempfehlungen basierend auf den Modellvorhersagen.
 - Ergebnisse kommunizieren: Präsentation der Ergebnisse an Stakeholder in verständlicher Form, oft unterstützt durch Visualisierungen und Berichte.
+
+
 
 
 
