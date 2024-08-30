@@ -35,9 +35,7 @@ Lösung:
 <sub>*Lead Data Scientist*</sub>
 
 
-Airbnb hat erfolgreich die traditionelle Hotelbranche gestört, da immer mehr Reisende sich entscheiden, Airbnb als ihren Hauptunterkunftsanbieter zu nutzen. Seit seinem Beginn im Jahr 2008 hat Airbnb ein enormes Wachstum verzeichnet, wobei die Anzahl der auf seiner Website gelisteten Mietobjekte jedes Jahr exponentiell zunimmt. In Deutschland ist keine Stadt beliebter als Berlin. Das bedeutet, dass Berlin einer der heißesten Märkte für Airbnb in Europa ist, mit über 9060 Angeboten im Januar 2021.
-
-Die Analyse von Tausenden von Anzeigen, die über Airbnb bereitgestellt werden, ist ein entscheidender Faktor für das Unternehmen. Unser Hauptziel ist es, die wichtigsten Metriken zu ermitteln, die die Auflistung von Immobilien auf der Plattform beeinflussen. Zu diesem Zweck werden wir den Airbnb-Datensatz in Berlin mithilfe grundlegender Techniken der explorativen Datenanalyse (EDA) erkunden und visualisieren. Wir haben die Verteilung jeder Airbnb-Anzeige basierend auf ihrer Lage, einschließlich Preisbereich, Zimmertyp, Anzeigenname und anderen relevanten Faktoren, entdeckt. Wir haben diesen Datensatz aus verschiedenen Blickwinkeln analysiert und interessante Erkenntnisse gewonnen. Dies kann dem Marketingteam, dem Finanzteam und dem technischen Team von Airbnb bei datenbasierten strategischen Entscheidungen helfen.
+Entwicklung eines Algorithmus zur Vorhersage der möglichen Endplatzierung im Meisterschaftsturnier basierend auf der Kaderzusammensetzung. Wir streben an, die Platzierungen der Teams von Rang 1 bis Rang 20 in der Premier League vorherzusagen. Dazu nutzen wir verschiedene Attribute der Spieler jedes Teams, wie zum Beispiel Körpergröße, Gewicht, Nationalität, Anzahl der Tore, Vorlagen und Torwartparaden. Zudem werden wir analysieren, welche Kadermerkmale den größten Einfluss auf die Platzierung in der Meisterschaft haben.
 
 **Links:**
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
