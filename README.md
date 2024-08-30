@@ -76,18 +76,18 @@ Die Daten stammen von der Website [footystats.org](https://footystats.org/de/eng
 
 Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohdaten ein verwertbares Modell oder eine aussagekräftige Analyse zu entwickeln. In diesem Projekt wurden diese Phasen mehrfach wiederholt. Beim ersten Durchlauf konnten keine zufriedenstellenden Ergebnisse erzielt werden, da die gewählten Features nicht geeignet waren, um brauchbare Resultate zu liefern. Um das Problem zu beheben, wurde die Datenaufbereitung für das Modell erneut durchgeführt, wobei neue Features ausgewählt und angepasst wurden, die das Modell besser unterstützen könnten. In diesem Projekt wurden die folgenden Phasen durchlaufen.
 
-1. Problem Definition
+**1. Problem Definition**
 
 - Zielsetzung: Klare Definition des Problems, das gelöst werden soll. Dies umfasst die Identifikation der Geschäftsanforderungen und das Festlegen der zu erreichenden Ziele.
 - Erfolgskriterien: Festlegung von Kriterien, anhand derer der Erfolg des Projekts gemessen wird.
 
-2. Datenbeschaffung
+**2. Datenbeschaffung**
 
 - Datenquellen identifizieren: Welche Daten sind erforderlich und woher können sie bezogen werden?
 - Datenakquise: Extraktion der benötigten Daten aus den identifizierten Quellen.
 - Datenzugang sichern: Sicherstellen, dass der Zugang zu den benötigten Datenquellen gegeben ist.
 
-3. Datenaufbereitung
+**3. Datenaufbereitung**
 
 - Datenbereinigung: Entfernen von Rauschen, Duplikaten und Inkonsistenzen, Umgang mit fehlenden Werten und Outliers.
 - Datenintegration: Zusammenführen von Daten aus verschiedenen Quellen und Formaten.
