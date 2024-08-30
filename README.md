@@ -118,7 +118,7 @@ Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohda
 - Ergebnisse kommunizieren: Präsentation der Ergebnisse an Stakeholder in verständlicher Form, oft unterstützt durch Visualisierungen und Berichte.
 
 
-### Analysis 
+### Analysis und Ziel: 
 
 
 Folgende Fragen werde ich durch der Analyse  beantworten:
@@ -131,6 +131,15 @@ Folgende Fragen werde ich durch der Analyse  beantworten:
 + Welcher Host hat die meisten Anzeigen?
 + Was ist der Durchschnitt der Mindestaufenthaltsdauer für Mietwohnungen (minimum_nights)?
 + Sind Immobilien im Besitz einzelner Nutzer oder gibt es Nutzer mit mehreren Mietobjekten (d. h. potenziell für Spekulationen)?
+
+
+### Ziel:
+
+●  Beratung der technischen Abteilung bei der  Rekrutierung von neuen Spielern sowie die Aufstellungen der Mannschaft. 
+
+● Mit den historische Daten von Spielern und der Klassifikation der Mannschaften in der Premier League wird ein Algorithmus entwickeln, der bestimmt, mit welcher Wahrscheinlichkeit eine bestimmte Position  in der  Premier Liga  mit den aktuell Kader erreicht werden kann.
+
+● Definieren, welche  Eingenschaften der Kader die Mannschaftsplatzierung in der Premier League beeinflussen.
 
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
