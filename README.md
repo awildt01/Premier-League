@@ -15,7 +15,7 @@ Die Idee ist dass Mann nicht einzelner Spieler bewertete sondern eine Zentral We
 
 **Links:**
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
-* [Medium](https://medium.com/@alexandrewildtgraziani/analyse-der-airbnb-berlin-b002125a56f9)
+* [Medium](https://medium.com/@alexandrewildtgraziani/premier-league-rangliste-von-fu%C3%9Fballmannschaften-vorhersagen-a23ee26f63bc)
 * [Blog](https://sigmoidal.ai)
 
 ### Beschaffung der Daten:
