@@ -62,7 +62,7 @@ Die Idee ist dass Mann nicht einzelner Spieler bewertete sondern eine Zentral We
 * [Blog](https://sigmoidal.ai)
 
 ### Beschaffung der Daten
-Alle hier verwendeten Daten wurden von der Website Inside Airbnb bezogen.
+Die Datensätze umfassen Informationen aus den Jahren 2003 bis 2021. Aus diesen Daten wurden zwei separate Dateien erstellt: eine, die sich auf die Mannschaften in der Liga konzentriert, und eine weitere, die sich auf die Kaderzusammensetzungen bezieht. Die Daten stammen von der Website footystats.org, einer Plattform, die umfassende Fußballstatistiken und -analysen für über 1.500 Fußballligen weltweit bereitstellt.
 
 Für diese anfängliche explorative Analyse wird nur die folgende Datei heruntergeladen:
 
