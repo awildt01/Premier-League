@@ -79,43 +79,43 @@ Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohda
 1. Problem Definition
 
 - Zielsetzung: Klare Definition des Problems, das gelöst werden soll. Dies umfasst die Identifikation der Geschäftsanforderungen und das Festlegen der zu erreichenden Ziele.
-Erfolgskriterien: Festlegung von Kriterien, anhand derer der Erfolg des Projekts gemessen wird.
+- Erfolgskriterien: Festlegung von Kriterien, anhand derer der Erfolg des Projekts gemessen wird.
 
 2. Datenbeschaffung
 
 - Datenquellen identifizieren: Welche Daten sind erforderlich und woher können sie bezogen werden?
-Datenakquise: Extraktion der benötigten Daten aus den identifizierten Quellen.
-Datenzugang sichern: Sicherstellen, dass der Zugang zu den benötigten Datenquellen gegeben ist.
+- Datenakquise: Extraktion der benötigten Daten aus den identifizierten Quellen.
+- Datenzugang sichern: Sicherstellen, dass der Zugang zu den benötigten Datenquellen gegeben ist.
 
 3. Datenaufbereitung
 
 - Datenbereinigung: Entfernen von Rauschen, Duplikaten und Inkonsistenzen, Umgang mit fehlenden Werten und Outliers.
-Datenintegration: Zusammenführen von Daten aus verschiedenen Quellen und Formaten.
-Feature Engineering: Erstellen neuer Merkmale (Features) aus den vorhandenen Daten, um die Leistung des Modells zu verbessern.
-Datenformatierung: Vorbereitung der Daten für die Modellierung (Skalierung, Normalisierung, One-Hot-Encoding).
+- Datenintegration: Zusammenführen von Daten aus verschiedenen Quellen und Formaten.
+- Feature Engineering: Erstellen neuer Merkmale (Features) aus den vorhandenen Daten, um die Leistung des Modells zu verbessern.
+- Datenformatierung: Vorbereitung der Daten für die Modellierung (Skalierung, Normalisierung, One-Hot-Encoding).
 
 4. Explorative Datenanalyse (EDA)
 
-Datenvisualisierung: Verwendung von Diagrammen und Plots, um die Verteilungen, Zusammenhänge und Muster in den Daten zu verstehen.
-Statistische Analyse: Durchführung von Hypothesentests und Korrelationsanalysen, um tiefere Einblicke in die Daten zu gewinnen.
+- Datenvisualisierung: Verwendung von Diagrammen und Plots, um die Verteilungen, Zusammenhänge und Muster in den Daten zu verstehen.
+- Statistische Analyse: Durchführung von Hypothesentests und Korrelationsanalysen, um tiefere Einblicke in die Daten zu gewinnen.
 
 5. Modellierung
 
-Modellauswahl: Auswahl geeigneter Algorithmen basierend auf dem Problemtyp (z.B. Klassifikation, Regression).
-Modelltraining: Anpassung des Modells an die Trainingsdaten.
-Hyperparameter-Tuning: Feinabstimmung der Modellparameter, um die Leistung zu optimieren.
-Cross-Validation: Überprüfung der Modellleistung durch Aufteilung der Daten in Trainings- und Validierungssets.
+- Modellauswahl: Auswahl geeigneter Algorithmen basierend auf dem Problemtyp (z.B. Klassifikation, Regression).
+- Modelltraining: Anpassung des Modells an die Trainingsdaten.
+- Hyperparameter-Tuning: Feinabstimmung der Modellparameter, um die Leistung zu optimieren.
+- Cross-Validation: Überprüfung der Modellleistung durch Aufteilung der Daten in Trainings- und Validierungssets.
 
 6. Evaluierung
 
-Modellbewertung: Messung der Modellleistung anhand verschiedener Metriken wie Genauigkeit, Präzision, Recall, F1-Score etc.
-Modellvergleich: Vergleich der Leistung verschiedener Modelle und Auswahl des besten Modells.
-Überprüfung auf Überanpassung (Overfitting): Sicherstellen, dass das Modell gut generalisiert und nicht nur auf den Trainingsdaten gut abschneidet.
+- Modellbewertung: Messung der Modellleistung anhand verschiedener Metriken wie Genauigkeit, Präzision, Recall, F1-Score etc.
+- Modellvergleich: Vergleich der Leistung verschiedener Modelle und Auswahl des besten Modells.
+- Überprüfung auf Überanpassung (Overfitting): Sicherstellen, dass das Modell gut generalisiert und nicht nur auf den Trainingsdaten gut abschneidet.
 
 7. Interpretation und Kommunikation
 
-Modellergebnisse interpretieren: Ableitung von Erkenntnissen und Geschäftsempfehlungen basierend auf den Modellvorhersagen.
-Ergebnisse kommunizieren: Präsentation der Ergebnisse an Stakeholder in verständlicher Form, oft unterstützt durch Visualisierungen und Berichte.
+- Modellergebnisse interpretieren: Ableitung von Erkenntnissen und Geschäftsempfehlungen basierend auf den Modellvorhersagen.
+- Ergebnisse kommunizieren: Präsentation der Ergebnisse an Stakeholder in verständlicher Form, oft unterstützt durch Visualisierungen und Berichte.
 
 
 
