@@ -118,10 +118,6 @@ Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohda
 - Ergebnisse kommunizieren: Präsentation der Ergebnisse an Stakeholder in verständlicher Form, oft unterstützt durch Visualisierungen und Berichte.
 
 
-
-
-
-
 ### Analysis 
 
 
