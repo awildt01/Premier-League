@@ -64,7 +64,7 @@ Die Idee ist dass Mann nicht einzelner Spieler bewertete sondern eine Zentral We
 ### Beschaffung der Daten
 Die Datensätze umfassen Informationen aus den Jahren 2003 bis 2021. Aus diesen Daten wurden zwei separate Dateien erstellt: eine, die sich auf die Mannschaften in der Liga konzentriert, und eine weitere, die sich auf die Kaderzusammensetzungen bezieht. Die Daten stammen von der Website footystats.org, einer Plattform, die umfassende Fußballstatistiken und -analysen für über 1.500 Fußballligen weltweit bereitstellt.
 
-Die Daten stammen von der Website footystats.org. FootyStats ist eine Website für Fußballstatistiken und Analysen mit Datenabdeckung in über 1500 Fußballligen weltweit.
+Die Daten stammen von der Website [footystats.org](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb) footystats.org. FootyStats ist eine Website für Fußballstatistiken und Analysen mit Datenabdeckung in über 1500 Fußballligen weltweit.
 
 - listings.csv - Zusammenfassende Informationen und Metriken für Angebote in Berlin (geeignet für Visualisierungen).
 Wichtig:  Die Website entwickelt sich ständig weiter, und es kann sein, dass zu einem bestimmten Zeitpunkt der genaue Datensatz, der in diesem Notebook verwendet wird, nicht mehr verfügbar ist, was unseren Code beeinträchtigen würde
