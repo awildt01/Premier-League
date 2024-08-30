@@ -78,18 +78,18 @@ Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohda
 
 1. Problem Definition
 
-Zielsetzung: Klare Definition des Problems, das gelöst werden soll. Dies umfasst die Identifikation der Geschäftsanforderungen und das Festlegen der zu erreichenden Ziele.
+- Zielsetzung: Klare Definition des Problems, das gelöst werden soll. Dies umfasst die Identifikation der Geschäftsanforderungen und das Festlegen der zu erreichenden Ziele.
 Erfolgskriterien: Festlegung von Kriterien, anhand derer der Erfolg des Projekts gemessen wird.
 
 2. Datenbeschaffung
 
-Datenquellen identifizieren: Welche Daten sind erforderlich und woher können sie bezogen werden?
+- Datenquellen identifizieren: Welche Daten sind erforderlich und woher können sie bezogen werden?
 Datenakquise: Extraktion der benötigten Daten aus den identifizierten Quellen.
 Datenzugang sichern: Sicherstellen, dass der Zugang zu den benötigten Datenquellen gegeben ist.
 
 3. Datenaufbereitung
 
-Datenbereinigung: Entfernen von Rauschen, Duplikaten und Inkonsistenzen, Umgang mit fehlenden Werten und Outliers.
+- Datenbereinigung: Entfernen von Rauschen, Duplikaten und Inkonsistenzen, Umgang mit fehlenden Werten und Outliers.
 Datenintegration: Zusammenführen von Daten aus verschiedenen Quellen und Formaten.
 Feature Engineering: Erstellen neuer Merkmale (Features) aus den vorhandenen Daten, um die Leistung des Modells zu verbessern.
 Datenformatierung: Vorbereitung der Daten für die Modellierung (Skalierung, Normalisierung, One-Hot-Encoding).
