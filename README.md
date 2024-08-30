@@ -3,7 +3,7 @@
 ![2023-02-04_22h36_39](https://user-images.githubusercontent.com/18030121/216790586-91de0cdb-e93e-4717-a852-b4c97ef11fb9.png)
 
 
-
+ 
 
 In diesem Blog möchte ich einen  Einblick auf mein Projekt verschaffen. In diesem Projekt werde ich mehrere überwachte Algorithmen testen, um die Rangliste von  Fußballmannschaften  aus der Premier League Anhang ihrer Kader vorhersagen. Ich werde den besten Kandidatenalgorithmus aus vorläufigen Ergebnissen auswählen und diesen Algorithmus weiter optimieren, um die Aufgabe zu lösen. Dabei werde ich die besten Features auswählen und die Hyperparameter  optimieren. 
 
