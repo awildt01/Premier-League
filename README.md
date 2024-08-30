@@ -94,25 +94,25 @@ Ein Data-Science-Projekt durchläuft typischerweise mehrere Phasen, um aus Rohda
 - Feature Engineering: Erstellen neuer Merkmale (Features) aus den vorhandenen Daten, um die Leistung des Modells zu verbessern.
 - Datenformatierung: Vorbereitung der Daten für die Modellierung (Skalierung, Normalisierung, One-Hot-Encoding).
 
-4. Explorative Datenanalyse (EDA)
+**4. Explorative Datenanalyse (EDA)**
 
 - Datenvisualisierung: Verwendung von Diagrammen und Plots, um die Verteilungen, Zusammenhänge und Muster in den Daten zu verstehen.
 - Statistische Analyse: Durchführung von Hypothesentests und Korrelationsanalysen, um tiefere Einblicke in die Daten zu gewinnen.
 
-5. Modellierung
+**5. Modellierung**
 
 - Modellauswahl: Auswahl geeigneter Algorithmen basierend auf dem Problemtyp (z.B. Klassifikation, Regression).
 - Modelltraining: Anpassung des Modells an die Trainingsdaten.
 - Hyperparameter-Tuning: Feinabstimmung der Modellparameter, um die Leistung zu optimieren.
 - Cross-Validation: Überprüfung der Modellleistung durch Aufteilung der Daten in Trainings- und Validierungssets.
 
-6. Evaluierung
+**6. Evaluierung**
 
 - Modellbewertung: Messung der Modellleistung anhand verschiedener Metriken wie Genauigkeit, Präzision, Recall, F1-Score etc.
 - Modellvergleich: Vergleich der Leistung verschiedener Modelle und Auswahl des besten Modells.
 - Überprüfung auf Überanpassung (Overfitting): Sicherstellen, dass das Modell gut generalisiert und nicht nur auf den Trainingsdaten gut abschneidet.
 
-7. Interpretation und Kommunikation
+**7. Interpretation und Kommunikation**
 
 - Modellergebnisse interpretieren: Ableitung von Erkenntnissen und Geschäftsempfehlungen basierend auf den Modellvorhersagen.
 - Ergebnisse kommunizieren: Präsentation der Ergebnisse an Stakeholder in verständlicher Form, oft unterstützt durch Visualisierungen und Berichte.
