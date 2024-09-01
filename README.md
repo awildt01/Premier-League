@@ -14,7 +14,7 @@ In diesem Projekt wurde ein Algorithmus entwickelt, um die mögliche Endplatzier
 Die Idee ist dass Mann nicht einzelner Spieler bewertete sondern eine Zentral Wert die repräsentiert eine Eigenschaften der gesamt Kaders. BZ Median von Gewicht , Alter und Grösser. Ich gehe davon aus, dass die Eigenschaften der gesamten Mannschaft wichtiger sind, um eine bessere Klassifikation zu erreichen, als die individuellen Merkmale einzelner Spieler.
 
 **Links:**
-* [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
+* [Notebook](https://github.com/awildt01/Premier-League/blob/main/notebook/5.premier-model-final.ipynb)
 * [Medium](https://medium.com/@alexandrewildtgraziani/premier-league-rangliste-von-fu%C3%9Fballmannschaften-vorhersagen-a23ee26f63bc)
 * [Blog](https://sigmoidal.ai)
 
