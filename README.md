@@ -7,7 +7,7 @@
 
 
 # Alexandre Wildt Graziani 
-<sub>*Lead Data Scientist*</sub>
+<sub>*Lead Data Scientist*</sub> 
 
 In diesem Projekt wurde ein Algorithmus entwickelt, um die mögliche Endplatzierung der Teams in einem Meisterschaftsturnier basierend auf deren Kaderzusammensetzung vorherzusagen. Unser Ziel ist es, die Platzierungen der Teams von Rang 1 bis Rang 20 in der Premier League zu prognostizieren. Dafür nutzen wir verschiedene Spielerattribute, wie Körpergröße, Gewicht, Nationalität, Anzahl der Tore, Vorlagen und Torwartparaden. Darüber hinaus analysieren wir, welche Kadermerkmale den größten Einfluss auf die Platzierung in der Meisterschaft haben.
 
